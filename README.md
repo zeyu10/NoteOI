@@ -8,6 +8,8 @@ rp++
 
 P.S. 链接前面有“实现”字样的是代码，没有的是关于这个算法的简介。
 
+配合插件 [Better Comments](https://marketplace.visualstudio.com/items/?itemName=aaron-bond.better-comments) 阅读注释效果更佳。
+
 ---
 
 ## 入门篇
@@ -26,7 +28,7 @@ P.S. 链接前面有“实现”字样的是代码，没有的是关于这个算
 
 [数据结构（基础）](NOTE-DataStructure-Basic.md)
 
-[数论（基础）](NOTE-Mathematics-Basic.md)
+[数学（基础）](NOTE-Mathematics-Basic.md)
 
 ---
 
@@ -34,7 +36,7 @@ P.S. 链接前面有“实现”字样的是代码，没有的是关于这个算
 
 [数据结构（进阶）](NOTE-DataStructure-Advanced.md)
 
-[数论（进阶）](NOTE-Mathematics-Advanced.md)
+[数学（进阶）](NOTE-Mathematics-Advanced.md)
 
 ---
 
